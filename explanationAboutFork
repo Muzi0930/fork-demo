@@ -5,3 +5,7 @@ Github(and similar tools) allow us to create personal copies of other people's r
 When we fork a repo, we're basically asking Github "Make me my own copy of this repo please"
 
 As with pull requests, forking is not a Git feature. The ability to fork is implemented by Github. 
+
+
+git remote add upstream https://github.com/Yaguang0307/fork-demo.git (run this command in the fork user)
+
